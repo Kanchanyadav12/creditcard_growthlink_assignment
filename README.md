@@ -90,4 +90,4 @@ jupyter notebook credit_card_.ipynb
 ## Contact
 For queries or contributions, feel free to reach out:
 - Email: kanchanyadav4065@gmail.com
-- GitHub: [your-username](https://github.com/Kanchanyadav12)
+- GitHub: [Kanchanyadav12](https://github.com/Kanchanyadav12)
