@@ -66,7 +66,7 @@ jupyter notebook credit_card_.ipynb
 
 ---
 
-## 📈 Results
+## Results
 | Metric      | Value (Example) |
 |-------------|------------------|
 | Accuracy    | 0.9992           |
